@@ -1,6 +1,6 @@
 {
   "name": "migraine",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Custom bin script for node-migrate to work around not bailing on error",
   "main": "migraine.js",
   "bin": { "migrate": "./migraine.js" },
