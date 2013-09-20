@@ -1,0 +1,19 @@
+{
+  "name": "migraine",
+  "version": "0.0.0",
+  "description": "Custom bin script for node-migrate to work around not bailing on error",
+  "main": "migraine.js",
+  "bin": { "migrate": "./migraine.js" },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "migrate",
+    "migrations"
+  ],
+  "author": "Dan MacTough <danmactough@gmail.com>",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "migrate": "~0.1.3"
+  }
+}
