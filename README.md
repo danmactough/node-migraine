@@ -1,5 +1,7 @@
 # migraine
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/danmactough/node-migraine.svg)](https://greenkeeper.io/)
+
 [node-migrate](https://github.com/visionmedia/node-migrate) is great, but for this: https://github.com/visionmedia/node-migrate/pull/20
 
 So:
